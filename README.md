@@ -25,7 +25,6 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [Sort the columns of a csv-file](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `STRINGS` `ARRAYS` `ALGORITHMS` `SORTING` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/sortColumnsCSVFile.js) | [link](https://www.codewars.com/kata/57f7f71a7b992e699400013f) |
 | [Duplicate Encoder](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `STRINGS` `ARRAYS` `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/duplicateEncoder.js) | [link](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) |
 | [Matrix Addition](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `MATRIX` `ARRAYS` `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/matrixAddition.js) | [link](https://www.codewars.com/kata/526233aefd4764272800036f) |
-
 | [Iterate over a Linked List using "for ... of"](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/linkedListIterator.js) | [link](https://www.codewars.com/kata/5a0928398ba914ca6b00002b) |
 
 <br>
