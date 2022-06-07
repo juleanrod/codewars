@@ -33,5 +33,6 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [Find the total white and black areas in a strange chessboard](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `ALGORITHMS` `PUZZLES` `MATHEMATICS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/BlackAndWhiteArea.js) | [link](https://www.codewars.com/kata/6262f9f7afc4729d8f5bef48) |
 | [Reach Me and Sum my Digits](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `MATHEMATICS` `FUNDAMENTALS` `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/SumMyDigits.js) | [link](https://www.codewars.com/kata/55ffb44050558fdb200000a4) |
 | [Fun with lists: countlf](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `LISTS` `FUNCTIONAL PROGRAMMING` `FUNDAMENTALS`| [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/FunWithLists.js) | [link](https://www.codewars.com/kata/5819081d056d4bdd410004f8) |
+| [Unique in Order](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `ALGORITHMS` `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/uniqueInOrder.js) | [link](https://www.codewars.com/kata/54e6533c92449cc251001667) |
 
 <br>
