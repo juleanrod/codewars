@@ -35,5 +35,6 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [Fun with lists: countlf](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `LISTS` `FUNCTIONAL PROGRAMMING` `FUNDAMENTALS`| [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/FunWithLists.js) | [link](https://www.codewars.com/kata/5819081d056d4bdd410004f8) |
 | [Unique in Order](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `ALGORITHMS` `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/uniqueInOrder.js) | [link](https://www.codewars.com/kata/54e6533c92449cc251001667) |
 | [Cancer cells](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `REGULAR EXPRESSIONS` `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/cutCancerCells.js) | [link](https://www.codewars.com/kata/5931614bb2f657c18c0001c3) |
+| [Meeting](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/meeting.js) | [link](https://www.codewars.com/kata/59df2f8f08c6cec835000012) |
 
 <br>
