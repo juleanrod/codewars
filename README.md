@@ -37,5 +37,6 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [Cancer cells](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `REGULAR EXPRESSIONS` `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/cutCancerCells.js) | [link](https://www.codewars.com/kata/5931614bb2f657c18c0001c3) |
 | [Meeting](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/meeting.js) | [link](https://www.codewars.com/kata/59df2f8f08c6cec835000012) |
 | [Find The Parity Outlier](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/findOutlier.js) | [link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) |
+| [English beggars](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `QUEUES` `ARRAYS` `LISTS` `RECURSION` `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/beggars.js) | [link](https://www.codewars.com/kata/59590976838112bfea0000fa) |
 
 <br>
