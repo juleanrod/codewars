@@ -1,35 +1,31 @@
-/*DESCRIPTION:
-Let us consider this example (array written in general format):
+/*
+Description:
 
-ls = [0, 1, 3, 6, 10]
+    Write a function that takes a positive integer and returns the next smaller positive integer containing the same digits.
 
-Its following parts:
+    For example:
 
-ls = [0, 1, 3, 6, 10]
-ls = [1, 3, 6, 10]
-ls = [3, 6, 10]
-ls = [6, 10]
-ls = [10]
-ls = []
-The corresponding sums are (put together in a list): [20, 20, 19, 16, 10, 0]
+    nextSmaller(21) == 12
+    nextSmaller(531) == 513
+    nextSmaller(2071) == 2017
 
-The function parts_sums (or its variants in other languages) will take as parameter a list ls and return a list of the sums of its parts as defined above.
+    Return -1 (for Haskell: return Nothing, for Rust: return None), when there is no
+    smaller number that contains the same digits. Also return -1 when the next
+    smaller number with the same digits would require the leading digit to be zero.
 
-Other Examples:
-ls = [1, 2, 3, 4, 5, 6]
-parts_sums(ls) -> [21, 20, 18, 15, 11, 6, 0]
-
-ls = [744125, 935, 407, 454, 430, 90, 144, 6710213, 889, 810, 2579358]
-parts_sums(ls) -> [10037855, 9293730, 9292795, 9292388, 9291934, 9291504, 9291414, 9291270, 2581057, 2580168, 2579358, 0]
-Notes
-Take a look at performance: some lists have thousands of elements.
-
+    nextSmaller(9) == -1
+    nextSmaller(111) == -1
+    nextSmaller(135) == -1
+    nextSmaller(1027) == -1 // 0721 is out since we don't write numbers with leading zeros
+    some tests will include very large numbers.
+    test data only employs positive integers.
 */
 
 function nextSmaller(n) {
 
   let min = minify(n);
-  while(--n >= min) if(minify(n) === min) return n;
+  while(--n >= min) 
+    if(minify(n) === min) return n;
   return -1;
 }
 
