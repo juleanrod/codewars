@@ -42,5 +42,6 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [Zero-plentiful Array](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/zeroPlentiful.js) | [link](https://www.codewars.com/kata/59e270da7997cba3d3000041) |
 | [Take a Ten Minute Walk](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `ARRAYS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/isValidWalk.js) | [link](https://www.codewars.com/kata/54da539698b8a2ad76000228) |
 | [Delete occurrences of an element if it occurs more than n times](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `LISTS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/deleteNth.js) | [link](https://www.codewars.com/kata/554ca54ffa7d91b236000023) |
+| [Find within array](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `FUNCTIONAL PROGRAMMING` `ARRAYS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/findInArray.js) | [link](https://www.codewars.com/kata/51f082ba7297b8f07f000001) |
 
 <br>
