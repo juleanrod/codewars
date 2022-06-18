@@ -44,5 +44,6 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [Delete occurrences of an element if it occurs more than n times](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `LISTS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/deleteNth.js) | [link](https://www.codewars.com/kata/554ca54ffa7d91b236000023) |
 | [Find within array](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `FUNCTIONAL PROGRAMMING` `ARRAYS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/findInArray.js) | [link](https://www.codewars.com/kata/51f082ba7297b8f07f000001) |
 | [Simple time difference](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `ALGORITHMS` `DATE TIME` `STRINGS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/getMinutes.js) | [link](https://www.codewars.com/kata/5b76a34ff71e5de9db0000f2) |
+| [The Vowel Code](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `ARRAYS` `REGULAR EXPRESSIONS` `STRINGS` `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/vowels.js) | [link](https://www.codewars.com/kata/53697be005f803751e0015aa) |
 
 <br>
