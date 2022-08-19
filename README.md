@@ -1,4 +1,4 @@
-# Codewars - [Live stats and solutions] (https://www.codewars.com/users/juleanrod/stats)
+# Codewars - [Live stats and solutions](https://www.codewars.com/users/juleanrod/stats)
 
 ![Codewars](https://github.r2v.ch/codewars?user=juleanrod&stroke=%23BB444C)<br>
 
