@@ -12,3 +12,9 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 
 <br>
 
+## 5-kyu Katas
+| Kata(s) | Subject | Solution(s) | Link |
+|--|--|--|--|
+| [Tic-Tac-Toe Checker](https://github.com/juleanrod/codewars/tree/main/javascript/5-kyu) | `ARRAYS` `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/5-kyu/ticTacToe.js) | [link](https://www.codewars.com/kata/525caa5c1bf619d28c000335) |
+
+<br>
