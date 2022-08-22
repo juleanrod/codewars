@@ -22,6 +22,6 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 ## 6-kyu Katas
 | Kata(s) | Subject | Solution(s) | Link |
 |--|--|--|--|
-| [Tic-Tac-Toe Checker](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `STRINGS` `ARRAYS` `ALGORITHMS` `SORTING` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/sortColumnsCSVFile.js) | [link](https://www.codewars.com/kata/57f7f71a7b992e699400013f) |
+| [Sort the columns of a csv-file](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `STRINGS` `ARRAYS` `ALGORITHMS` `SORTING` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/sortColumnsCSVFile.js) | [link](https://www.codewars.com/kata/57f7f71a7b992e699400013f) |
 
 <br>
