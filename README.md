@@ -29,5 +29,6 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [Iterate over a Linked List using "for ... of"](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/linkedListIterator.js) | [link](https://www.codewars.com/kata/5a0928398ba914ca6b00002b) |
 | [Linked Lists - Sorted Insert](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `LINKED LIST` `DATA STRUCTURES` `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/LinkedListSortedInsert.js) | [link](https://www.codewars.com/kata/55cc33e97259667a08000044) |
 | [Parse a linked list from a string](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `LINKED LISTS` `RECURSION` `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/StringToLinkedList.js) | [link](https://www.codewars.com/kata/582c5382f000e535100001a7) |
+| [Find the total white and black areas in a strange chessboard](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `ALGORITHMS` `PUZZLES` `MATHEMATICS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/BlackAndWhiteAreas.js) | [link](codewars.com/kata/6262f9f7afc4729d8f5bef48) |
 
 <br>

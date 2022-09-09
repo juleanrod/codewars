@@ -46,3 +46,4 @@ function whiteBlackAreas(cols, rows) {
   whiteArea = evenCols * evenRows + oddCols * oddRows;
   return [whiteArea, totalArea - whiteArea];
 }
+// Time to complete: 24min
