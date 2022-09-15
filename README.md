@@ -39,5 +39,6 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [Find The Parity Outlier](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/findOutlier.js) | [link](https://www.codewars.com/kata/5526fc09a1bbd946250002dc) |
 | [English beggars](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `QUEUES` `ARRAYS` `LISTS` `RECURSION` `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/beggars.js) | [link](https://www.codewars.com/kata/59590976838112bfea0000fa) |
 | [Ascend, Descend, Repeat?](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `STRINGS` `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/ascendDescend.js) | [link](https://www.codewars.com/kata/62ca07aaedc75c88fb95ee2f) |
+| [Zero-plentiful Array](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/zeroPlentiful.js) | [link](https://www.codewars.com/kata/59e270da7997cba3d3000041) |
 
 <br>
