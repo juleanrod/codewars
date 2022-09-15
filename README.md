@@ -40,5 +40,6 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [English beggars](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `QUEUES` `ARRAYS` `LISTS` `RECURSION` `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/beggars.js) | [link](https://www.codewars.com/kata/59590976838112bfea0000fa) |
 | [Ascend, Descend, Repeat?](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `STRINGS` `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/ascendDescend.js) | [link](https://www.codewars.com/kata/62ca07aaedc75c88fb95ee2f) |
 | [Zero-plentiful Array](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/zeroPlentiful.js) | [link](https://www.codewars.com/kata/59e270da7997cba3d3000041) |
+| [Take a Ten Minute Walk](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `ARRAYS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/isValidWalk.js) | [link](https://www.codewars.com/kata/54da539698b8a2ad76000228) |
 
 <br>
