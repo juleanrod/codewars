@@ -45,5 +45,6 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [Find within array](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `FUNCTIONAL PROGRAMMING` `ARRAYS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/findInArray.js) | [link](https://www.codewars.com/kata/51f082ba7297b8f07f000001) |
 | [Simple time difference](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `ALGORITHMS` `DATE TIME` `STRINGS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/getMinutes.js) | [link](https://www.codewars.com/kata/5b76a34ff71e5de9db0000f2) |
 | [The Vowel Code](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `ARRAYS` `REGULAR EXPRESSIONS` `STRINGS` `FUNDAMENTALS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/vowels.js) | [link](https://www.codewars.com/kata/53697be005f803751e0015aa) |
+| [Sorting by bits](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `LOGIC` `ARRAYS` `ALGORITHMS` `DATA STRUCTURES` `FUNDAMENTALS` `BITS` `BINARY` `SORTING` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/sortByBits.js) | [link](https://www.codewars.com/kata/59fa8e2646d8433ee200003f) |
 
 <br>
