@@ -20,6 +20,7 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [Count IP Addresses](https://github.com/juleanrod/codewars/tree/main/javascript/5-kyu) | `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/5-kyu/CountIPAddresses.js) | [link](https://www.codewars.com/kata/526989a41034285187000de4) |
 | [Distinct contiguous elements in every window of size k](https://github.com/juleanrod/codewars/tree/main/javascript/5-kyu) | `ALGORITHMS` `PERFORMANCE` `ARRAYS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/5-kyu/countContiguousDistinct.js) | [link](https://www.codewars.com/kata/5945f0c207693bc53100006b) |
 | [Scramblies](https://github.com/juleanrod/codewars/tree/main/javascript/5-kyu) | `STRINGS` `PERFORMANCE` `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/5-kyu/scramble.js) | [link](https://www.codewars.com/users/juleanrod/completed_solutions) |
+| [Integers: Recreation One](https://github.com/juleanrod/codewars/tree/main/javascript/5-kyu) | `FUNDAMENTALS` `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/5-kyu/listSquared.js) | [link](https://www.codewars.com/kata/55aa075506463dac6600010d) |
 
 <br>
 
