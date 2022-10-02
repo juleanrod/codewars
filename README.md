@@ -19,6 +19,7 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [Tic-Tac-Toe Checker](https://github.com/juleanrod/codewars/tree/main/javascript/5-kyu) | `ARRAYS` `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/5-kyu/ticTacToe.js) | [link](https://www.codewars.com/kata/525caa5c1bf619d28c000335) |
 | [Count IP Addresses](https://github.com/juleanrod/codewars/tree/main/javascript/5-kyu) | `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/5-kyu/CountIPAddresses.js) | [link](https://www.codewars.com/kata/526989a41034285187000de4) |
 | [Distinct contiguous elements in every window of size k](https://github.com/juleanrod/codewars/tree/main/javascript/5-kyu) | `ALGORITHMS` `PERFORMANCE` `ARRAYS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/5-kyu/countContiguousDistinct.js) | [link](https://www.codewars.com/kata/5945f0c207693bc53100006b) |
+| [Scramblies](https://github.com/juleanrod/codewars/tree/main/javascript/5-kyu) | `STRINGS` `PERFORMANCE` `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/5-kyu/scramble.js) | [link](https://www.codewars.com/users/juleanrod/completed_solutions) |
 
 <br>
 
