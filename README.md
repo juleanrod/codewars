@@ -51,5 +51,6 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [Sorting by bits](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `LOGIC` `ARRAYS` `ALGORITHMS` `DATA STRUCTURES` `FUNDAMENTALS` `BITS` `BINARY` `SORTING` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/sortByBits.js) | [link](https://www.codewars.com/kata/59fa8e2646d8433ee200003f) |
 | [Does my number look big in this?](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/narcissistic.js) | [link](https://www.codewars.com/kata/5287e858c6b5a9678200083c) |
 | [Array Combinations](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `ARRAYS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/combinantions.js) | [link](https://www.codewars.com/kata/59e66e48fc3c499ec5000103/train/javascript) |
+| [String transformer](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `ARRAYS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/stringTransformer.js) | [link](https://www.codewars.com/kata/5878520d52628a092f0002d0/train/javascript) |
 
 <br>
