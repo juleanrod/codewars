@@ -52,5 +52,6 @@ A repository filled with my solutions to problem/challenges in [Codewars](https:
 | [Does my number look big in this?](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `ALGORITHMS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/narcissistic.js) | [link](https://www.codewars.com/kata/5287e858c6b5a9678200083c) |
 | [Array Combinations](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `ARRAYS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/combinantions.js) | [link](https://www.codewars.com/kata/59e66e48fc3c499ec5000103/train/javascript) |
 | [String transformer](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `ARRAYS` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/stringTransformer.js) | [link](https://www.codewars.com/kata/5878520d52628a092f0002d0/train/javascript) |
+| [Recursion: An introduction](https://github.com/juleanrod/codewars/tree/main/javascript/6-kyu) | `FUNDAMENTALS` `RECURSION` | [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/6-kyu/stepDown.js) | [link](https://www.codewars.com/kata/577ff873d648a1c5a9000143) |
 
 <br>
