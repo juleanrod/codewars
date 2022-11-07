@@ -5,6 +5,13 @@
 A repository filled with my solutions to problem/challenges in [Codewars](https://www.codewar.com)
 <br>
 
+## 3-kyu Katas
+| Kata(s) | Subject | Solution(s) | Link |
+|--|--|--|--|
+| [One Line Task: Check Range](https://github.com/juleanrod/codewars/tree/main/javascript/3-kyu) |`PUZZLES` `RESTRICTED`| [JavaScript](https://github.com/juleanrod/codewars/blob/main/javascript/3-kyu/checkRange.js) | [link](https://www.codewars.com/kata/591e833267cd75cb02000007/javascript) |
+
+<br>
+
 ## 4-kyu Katas
 | Kata(s) | Subject | Solution(s) | Link |
 |--|--|--|--|
